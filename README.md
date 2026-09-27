@@ -1,22 +1,22 @@
-# Hi there, I'm Anaiat Ur Rehman 👋
+# Anaiat Ur Rehman
 
-### 🚀 Artificial Intelligence Specialist | Healthcare AI & Data Specialist | Prompt Evaluator
+### Artificial Intelligence Specialist | Healthcare AI & Data Specialist | Prompt Evaluator
 
-Results-driven Artificial Intelligence Specialist, Healthcare AI & Data Specialist, and Prompt Evaluator with **5+ years of experience** collaborating with global AI platforms and research pipelines. Experienced in clinical data annotation, natural language processing (NLP), prompt engineering, and LLM evaluation.
+Results-driven Artificial Intelligence Specialist, Healthcare AI & Data Specialist, and Prompt Evaluator with 5+ years of experience collaborating with global AI platforms and research pipelines. Experienced in clinical data annotation, natural language processing (NLP), prompt engineering, and LLM evaluation.
 
 ---
 
-## 🛠️ Core Competencies & Technical Skills
+## Core Competencies & Technical Skills
 
 * **Healthcare AI & Data:** Clinical Data Annotation, Medical Record Evaluation, Healthcare LLM Fine-Tuning & Evaluation, Clinical Safety Red-Teaming, Medical Domain Quality Rating.
 * **AI, NLP & LLM Fine-Tuning:** Natural Language Processing (NLP), RLHF (Reinforcement Learning from Human Feedback), Supervised Fine-Tuning (SFT), Multi-turn Dialogue Evaluation, Prompt Engineering & Optimization, Computer-Using Agent (CUA) Workflows.
-* **AI Quality & Testing:** End-to-End AI Model Testing Workflows, Factual Accuracy Auditing, Data Cleansing, Root Cause Analysis, Search Relevance Scoring.
+* **AI Quality & Testing:** End-to-End AI Model Testing Workflows, فactual Accuracy Auditing, Data Cleansing, Root Cause Analysis, Search Relevance Scoring.
 * **Multilingual & Localization:** Cross-cultural Localization, Audio Transcription, Semantic Text Analysis, Professional Translation (English, Urdu, Pashto, Indonesian, Arabic, Punjabi, Hindi).
 * **Tools & Platforms:** Appen SRT, OneForma Workbench, Toloka, Clickworker, Microsoft Azure & GenAI APIs, HubSpot CRM, Figma, Google Workspace, Advanced Excel, Slack, Trello, GitHub.
 
 ---
 
-## 📂 Featured Portfolio Projects (7 Repositories)
+## Featured Portfolio Projects (7 Repositories)
 
 Here is a showcase of my technical utilities and non-coding AI evaluation frameworks:
 1. **`ai-prompt-evaluation-rubric`** - Non-coding AI safety and red-teaming evaluation framework.
@@ -29,7 +29,7 @@ Here is a showcase of my technical utilities and non-coding AI evaluation framew
 
 ---
 
-## 🎓 Education & Certifications
+## Education & Certifications
 
 * **Bachelor of Homeopathic Medicine & Surgery (BHMS)** - Abbottabad University of Science & Technology
 * **Diploma in Homeopathic Medical Science (DHMS)** - Abbott Homeopathic College
@@ -46,7 +46,7 @@ Here is a showcase of my technical utilities and non-coding AI evaluation framew
 
 ---
 
-## 🌐 Languages
+## Languages
 * **Urdu & Pashto:** Native
 * **English & Indonesian:** Professional Proficiency
 * **Arabic:** Modern Standard Arabic (Professional)
