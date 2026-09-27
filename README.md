@@ -7,13 +7,13 @@ LinkedIn Profile: linkedin.com/in/anaiat-ur-rehman-aa6937334
 ---
 
 ## Professional Summary
-Results-driven Artificial Intelligence & Healthcare Data Specialist, Prompt Evaluator, and AI Quality Expert with over 7 years of remote professional expertise across premier global platforms including Appen (Since 2019), OneForma (Since 2021), and Turing (2026). Highly proficient in Business Analysis, Soft Communication Skills, Reinforcement Learning from Human Feedback (RLHF), Supervised Fine-Tuning (SFT), advanced prompt engineering, natural language processing (NLP), Computer-Using Agent (CUA) workflows, and clinical data annotation across English, Urdu, Pashto, Indonesian, and Arabic.
+Results-driven Artificial Intelligence & Healthcare Data Specialist, Prompt Evaluator, and AI Quality Expert with over 7 years of remote professional expertise across premier global platforms including Appen (Since 2019), OneForma (Since 2021), and Turing (2026). Highly proficient in Machine Learning model evaluation, Business Analysis, Soft Communication Skills, Reinforcement Learning from Human Feedback (RLHF), Supervised Fine-Tuning (SFT), advanced prompt engineering, natural language processing (NLP), Computer-Using Agent (CUA) workflows, and clinical data annotation across English, Urdu, Pashto, Indonesian, and Arabic.
 
 ---
 
 ## Core Competencies & Technical Skills
 
-* **AI Quality & RLHF:** RLHF, Supervised Fine-Tuning (SFT), Multi-turn Dialogue Evaluation, Prompt Engineering & Optimization, Factual Accuracy Auditing, Search Relevance Scoring.
+* **AI Quality, RLHF & Machine Learning:** Machine Learning Model Evaluation, RLHF, Supervised Fine-Tuning (SFT), Multi-turn Dialogue Evaluation, Prompt Engineering & Optimization, Factual Accuracy Auditing, Search Relevance Scoring.
 * **Healthcare AI & Medical:** Clinical Data Annotation, Medical Record Evaluation, Healthcare LLM Fine-Tuning, Clinical Safety Red-Teaming, Medical Domain Quality Rating, BHMS Background.
 * **Business Analysis & CUA Workflows:** Business Analysis, Soft Communication Skills, CUA Task Training & Annotation, Workflow Specification, Milestone Criteria Verification, Multi-App Testing.
 * **Multilingual & Localization:** Cross-cultural Localization, Audio Transcription, Semantic Text Analysis, Professional Translation across English, Urdu, Pashto, Indonesian, Arabic, Punjabi, Hindi.
@@ -53,6 +53,6 @@ Results-driven Artificial Intelligence & Healthcare Data Specialist, Prompt Eval
 ---
 
 ## Professional Skills & Certifications
-* **Professional Skills:** Business Analysis | Soft Communication Skills | AI Model Evaluation & Red-Teaming | Prompt Optimization | Cross-Cultural Localization & Transcription | Data Cleansing & Quality Assurance
+* **Professional Skills:** Business Analysis | Soft Communication Skills | AI & Machine Learning Model Evaluation & Red-Teaming | Prompt Optimization | Cross-Cultural Localization & Transcription | Data Cleansing & Quality Assurance
 * **Certifications:** Applied AI (Azure & GenAI) | Data Analytics | Communication Skills | E-commerce Management
 * **Languages:** Urdu & Pashto (Native) | English & Indonesian (Professional) | Arabic (MS - Proficient) | Punjabi & Hindi (Conversational)
