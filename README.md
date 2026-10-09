@@ -1,5 +1,5 @@
 # Anaiat Ur Rehman
-### Artificial Intelligence & Healthcare Data Specialist | Prompt Evaluator | AI Quality | RLHF, NLP & Prompt Engineering
+### Artificial Intelligence & Healthcare Data Specialist | 10+ Years Clinical Practice | Prompt Evaluator | RLHF, NLP & Prompt Engineering
 
 Abbottabad, Pakistan | +92 305 8517098 | anaiaturrehmantanoli@gmail.com  
 LinkedIn Profile: linkedin.com/in/anaiat-ur-rehman-aa6937334
@@ -7,7 +7,7 @@ LinkedIn Profile: linkedin.com/in/anaiat-ur-rehman-aa6937334
 ---
 
 ## Professional Summary
-Results-driven Artificial Intelligence & Healthcare Data Specialist, Prompt Evaluator, and AI Quality Expert with over 7 years of remote professional expertise across premier global platforms including Appen (Since 2019), OneForma (Since 2021), and Turing (2026). Highly proficient in Machine Learning model evaluation, Business Analysis, Soft Communication Skills, Reinforcement Learning from Human Feedback (RLHF), Supervised Fine-Tuning (SFT), advanced prompt engineering, natural language processing (NLP), Computer-Using Agent (CUA) workflows, and clinical data annotation across English, Urdu, Pashto, Indonesian, and Arabic.
+Results-driven Artificial Intelligence & Healthcare Data Specialist, Prompt Evaluator, and AI Quality Expert with **10+ years of clinical practice (since 2016)** combined with extensive remote professional expertise across premier global platforms including Appen (Since 2019), OneForma (Since 2021), and Turing (2026). Highly proficient in Machine Learning model evaluation, Business Analysis, Soft Communication Skills, Reinforcement Learning from Human Feedback (RLHF), Supervised Fine-Tuning (SFT), advanced prompt engineering, natural language processing (NLP), Computer-Using Agent (CUA) workflows, and clinical data annotation across English, Urdu, Pashto, Indonesian, and Arabic.
 
 ---
 
