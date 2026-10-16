@@ -1,70 +1,86 @@
-# Hi there, I'm Anaiat Ur Rehman 👋
+# ANAIAT UR REHMAN
 
-### Healthcare Data & QA Specialist | CUA & AI Model Evaluator | 10+ Years Clinical Practice
+### Healthcare Data & AI & Public Health | 10+ Years of Clinical Practice
+### QA Specialist | CUA & AI Safety Evaluator | Business & Data Analyst
+### Remote AI Model Development & Evaluation | Prompt Quality | Data Annotation & QA | Computer-Use Agent Testing
 
 📍 Abbottabad, Pakistan | ✉️ anaiaturrehmantanoli@gmail.com | 🔗 [LinkedIn Profile](https://linkedin.com/in/anaiat-ur-rehman-aa6937334)
 
 ---
 
-## 🚀 Professional Summary
+## 🚀 PROFESSIONAL SUMMARY
 
-Results-driven **Healthcare Data & QA Specialist, CUA Evaluator, and Quality Assurance Expert** with **10+ years of clinical practice** combined with extensive remote professional expertise across premier global platforms including **Appen**, **OneForma**, and **Turing**. Highly proficient in Machine Learning model evaluation, Quality Assurance, Business Analysis, Reinforcement Learning from Human Feedback (RLHF), Supervised Fine-Tuning (SFT), advanced prompt engineering, natural language processing (NLP), Computer-Using Agent (CUA) workflows, and clinical data annotation across English, Urdu, Pashto, Indonesian, and Arabic.
-
----
-
-## 🛠️ Core Competencies & Technical Skills
-
-* **QA, RLHF & Machine Learning:** Quality Assurance, Machine Learning Model Evaluation, RLHF, Supervised Fine-Tuning (SFT), Multi-turn Dialogue Evaluation, Prompt Engineering & Optimization, Factual Accuracy Auditing, Search Relevance Scoring.
-* **Healthcare AI & Medical:** Clinical Data Annotation, Medical Record Evaluation, Healthcare LLM Fine-Tuning, Clinical Safety Red-Teaming, Medical Domain Quality Rating, BHMS & Materia Medica Background.
-* **Business Analysis & CUA Workflows:** Business Analysis, QA Testing, Soft Communication Skills, CUA Task Training & Annotation, Workflow Specification, Milestone Criteria Verification, Multi-App Testing.
-* **Multilingual & Localization:** Cross-cultural Localization, Audio Transcription, Semantic Text Analysis, Professional Translation across English, Urdu, Pashto, Indonesian, Arabic, Punjabi, Hindi.
-* **Tools & Platforms:** Appen SRT, OneForma Workbench, Toloka, Clickworker, Microsoft Azure & GenAI APIs, HubSpot CRM, Figma, Google Workspace, Advanced Excel, Slack, Trello, GitHub.
+Accomplished AI Data Specialist and Clinical Practitioner with a distinctive blend of 10+ years of medical expertise and 5+ years of AI model evaluation. Proven track record in assessing AI-generated content for factual accuracy, safety, and clinical relevance. Expert in prompt engineering, Python, RLHF workflows, red-teaming, and Computer-Use Agent (CUA) testing. Combines deep clinical and public-health knowledge with rigorous analytical reasoning to ensure health-related AI outputs are accurate, safe, relevant, and ethically sound.
 
 ---
 
-## 💼 Professional Experience Highlights
+## 🛠️ CORE SKILLS & COMPETENCIES
 
-### 🔹 Appen — Data & QA Specialist & Prompt Evaluator
-* **Timeline:** 2019 – Present | Remote
-* Executing complex multilingual data annotation, quality assurance, search relevance scoring, audio transcription, and semantic text analysis for enterprise-grade models and NLP systems.
-* Applying rigorous evaluation rubrics to assess LLM responses for factual precision, tone, alignment, safety parameters, and cross-cultural localization across multiple languages.
-* Participating in ongoing benchmark testing, dataset cleansing, and adversarial prompt red-teaming to reduce model hallucination and improve generative output reliability.
-
-### 🔹 OneForma — Multilingual Data Annotator & QA Evaluator
-* **Timeline:** 2021 – Present | Centific / OneForma Platform
-* Conducting specialized healthcare and medical domain data evaluations, clinical record annotation, and prompt tuning to enhance instruction-following and safety standards.
-* Collaborating closely on cross-functional localization pipelines, multi-turn conversational dataset creation, and grammar/syntax quality auditing for diverse linguistic demographics.
-* Optimizing model training pipelines through detailed preference ranking, response comparison, and structured feedback documentation.
-
-### 🔹 Turing — Business Analyst & CUA Data Annotator / Trainer
-* **Timeline:** January 2026 – August 2026 | Remote
-* Served as Business Analyst, orchestrating complex multi-application task workflows, testing automation, and milestone verification criteria.
-* Executed rigorous Domain Expert assessments across Sports and Science & Technology domains, performing BrowseComp-style multi-hop prompts and trajectory evaluations.
-* Transitioned into specialized Computer-Using Agent (CUA) Data Annotator and Trainer role, executing workflow specifications and agent interaction analytics.
+* **Healthcare & Public Health Knowledge:** General medicine; family medicine; dermatology; public-health initiatives; epidemiological metrics; emergency medicine; sports medicine; clinical pharmacology; patient-record evaluation; BHMS and Materia Medica expertise.
+* **AI Model Evaluation & Safety:** Prompt engineering; AI response assessment; safety review; red-teaming; factual-accuracy auditing; hallucination identification; RLHF/SFT workflows; multi-turn dialogue evaluation; rubric-based scoring.
+* **Logical Reasoning & Problem Solving:** Advanced logical reasoning; critical thinking; analytical reasoning; evidence-based decision-making; identifying inconsistencies and evaluating competing responses.
+* **NLP & Language Quality:** NLP; multilingual localization; language quality evaluation; semantic relevance; contextual accuracy; text classification; labeling consistency.
+* **Data Annotation & Quality Assurance:** Data annotation; data validation; QA; error identification; content review; quality-control checks; structured labeling; consistency auditing.
+* **Technical Writing, Business & Data Analysis:** Technical writing; evidence-based feedback; business analysis; data analysis (Python, SQL); workflow analysis; process improvement.
+* **Computer-Use Agent (CUA) Testing:** Browser and workflow testing; task-completion review; usability checks; workflow error identification and reporting.
 
 ---
 
-## 🎓 Education & Academic Background
+## 💼 PROFESSIONAL EXPERIENCE
 
-* **BHMS** (Bachelor of Homeopathic Medicine & Surgery) — Abbottabad University of Science & Technology
-* **DHMS** (Diploma in Homeopathic Medical Science) — Abbott Homeopathic College
-* **BSCS** (Bachelor of Science in Computer Science) — Abbottabad University of Science & Technology *(CGPA: 3.6/4.00)*
-* **MBA** (Master of Business Administration) — University of Peshawar *(CGPA: 3.4/4.00)*
-* **BBA** (Bachelor of Business Administration) — University of Karachi *(CGPA: 3.7/4.00)*
+### Medical Doctor & Clinical Practitioner | Clinical Practice
+* **Timeline:** 2016–Present | Abbottabad, Pakistan
+* Deliver comprehensive clinical care across general medicine, family medicine, dermatology, and emergency medicine, managing diverse patient presentations from initial assessment through treatment.
+* Evaluate patient histories and diagnostic findings to formulate evidence-based treatment plans while maintaining strict compliance with documentation and confidentiality protocols.
+* Contribute to public-health initiatives, preventive care, and health education, while auditing health-related information for clinical accuracy and safety.
+
+### AI Data Specialist & Prompt Evaluator | Appen
+* **Timeline:** 2019–Present | Remote
+* Evaluate AI-generated responses and prompts for relevance, accuracy, clarity, and instruction adherence.
+* Execute annotation and quality-review tasks in strict accordance with project-specific guidelines, flagging inconsistencies with evidence-based judgments.
+
+### Multilingual Data Annotator & Quality Evaluator | Centific / OneForma
+* **Timeline:** 2021–Present | Remote
+* Complete multilingual annotation and content-quality evaluation tasks across diverse datasets.
+* Review labeling consistency, language quality, and adherence to instructions while maintaining exceptional attention to detail.
+
+### CUA Data Annotation Trainer | Turing
+* **Timeline:** August 2026 | Remote
+* Trained on data annotation workflows and Computer-Use Agent (CUA) testing scenarios to ensure model accuracy.
+* Applied data analytics and critical thinking skills to evaluate AI-assisted tasks and workflow compliance.
+
+### Business Analyst | Turing
+* **Timeline:** January 2026 – February 2026 | Remote
+* Contributed to data analysis, business process evaluation, and operational support as a Business Analyst.
+* Gathered and analyzed requirements, prepared reports, and provided actionable insights to support effective decision-making.
+
+### Additional AI Data & Annotation Experience
+* **Platforms:** Uber AI Solutions (2023–2026) | Toloka (2020–2025) | Clickworker (2021–2025)
+* Provided high-accuracy data labeling, image/text categorization, and annotation support for machine learning pipelines.
+* Performed quality assessment of AI-generated data, evaluated model outputs, and executed diverse microtasking assignments with strict adherence to guidelines.
 
 ---
 
-## 📜 Certifications & Professional Development
+## 🎓 EDUCATION & ACADEMIC BACKGROUND
 
-* **Business Analysis** — DigiSkills / Virtual University
-* **Applied AI** — Microsoft Azure & GenAI APIs
-* **Data Analytics & Professional Training**
-* **Independent Travel Manager Certification** — DreamPort
-* **E-commerce Management & Soft Communication Skills**
+* **Bachelor of Science in Computer Science (BSCS)** — Abbottabad University of Science & Technology | Jan 2023 – Jun 2025 | CGPA: 3.6/4.0
+* **Master of Business Administration (MBA)** — University of Peshawar | Jan 2017 – Jul 2019 | CGPA: 3.4/4.0
+* **Bachelor of Business Administration (BBA)** — University of Karachi | Jan 2012 – May 2016 | CGPA: 3.7/4.0
+* **Bachelor of Homeopathic Medicine and Surgery (BHMS)** — Abbottabad University of Science & Technology | Jan 2019 – Jul 2021 | Grade: A+
+* **Diploma in Homeopathic Medicine and Surgery (DHMS)** — Abbott Homeopathic College, Abbottabad
 
 ---
 
-## 🌍 Languages
+## 📜 CERTIFICATIONS & PROFESSIONAL DEVELOPMENT
+
+* Business Analysis & Communication/Soft Skills — DigiSkills / Virtual University
+* Data Analytics Certificate / Professional Training
+* Data Analytics & Financial Reporting Professional Training
+* Applied AI — Microsoft Azure & Generative AI APIs
+
+---
+
+## 🌍 LANGUAGES
 
 * **Native / First Languages:** Urdu, Pashto
 * **Professional Proficiency:** English, Indonesian
@@ -72,4 +88,8 @@ Results-driven **Healthcare Data & QA Specialist, CUA Evaluator, and Quality Ass
 * **Conversational:** Punjabi, Hindi
 
 ---
-⭐️ *Feel free to reach out via email or connect with me on LinkedIn for AI model evaluation, CUA testing, dataset annotation, or healthcare AI collaborations!*
+
+## 🏆 KEY ACHIEVEMENTS
+
+* **Cross-Domain Expertise:** Successfully integrated clinical knowledge with AI evaluation to ensure health-related AI outputs are accurate, safe, and responsible.
+* **Quality Assurance:** Maintained high consistency and accuracy in data annotation and evaluation across multiple platforms, contributing to improved model performance.
