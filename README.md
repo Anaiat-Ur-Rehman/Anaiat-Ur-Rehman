@@ -22,8 +22,8 @@ Detail-oriented Quality Data Analyst and AI Safety Specialist with 5+ years of A
 - **Healthcare & Clinical QA:** Health Administration | Dermatology | General Medicine | Family Medicine | Emergency Medicine | Sports Medicine | Public Health | Reproductive Medicine & Surgery | Physical Medicine & Rehabilitation | Clinical Pharmacology | Medical AI Output Auditing
 - **Data & Business Analysis:** Business Analysis | Finance Reporting | Content Analysis | Python (Data Analysis) | SQL (Data Analysis) | Stakeholder Requirements
 - **NLP & CUA QA:** NLP | Text Classification | Labeling Consistency | CUA Data Annotation | CUA QA Evaluation
-- **Tools & Platforms:** Google Gemini |ChatGPT | GPT & Chatbot Evaluation | Microsoft Excel |  Analytics | Google Workspace (Docs, Sheets) | Digital Marketing Strategy | Advanced Logical Reasoning | Technical Writing
 
+- **Tools & Other:** Google Gemini | Google Workspace (Docs, Sheets) | Google Analytics | ChatGPT | Microsoft Excel | Digital Marketing Strategy | Advanced Logical Reasoning | Technical Writing | Documentation
 ---
 
 ## 💼 Professional Experience
